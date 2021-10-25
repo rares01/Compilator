@@ -1,1 +1,1 @@
-# Compilator
+# Compilator written in C
