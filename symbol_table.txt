@@ -1,0 +1,47 @@
+Variabila cevanou4 Tipul string Scope-ul 5 Valoarea "babc"
+Variabila cevanou1 Tipul string Scope-ul 5 Valoarea "abcabcabcabc"
+Variabila cevanou Tipul string Scope-ul 5 Valoarea "bc"
+Variabila cevanou3 Tipul string Scope-ul 5 Valoarea "abcd"
+Variabila ram3 Tipul bool Scope-ul 5 Valoarea false
+Variabila ram2 Tipul bool Scope-ul 5 Valoarea false
+Variabila rom1 Tipul bool Scope-ul 5 Valoarea false
+Variabila beb Tipul char Scope-ul 5 Valoarea 'b'
+Variabila bib Tipul char Scope-ul 5 Valoarea 'a'
+Variabila float2 Tipul const float Scope-ul 5 Valoarea 8.3
+Variabila float1 Tipul const float Scope-ul 5 Valoarea 7.2
+Variabila dula1 Tipul const int Scope-ul 5 Valoarea 9
+Variabila dulap Tipul const int Scope-ul 5 Valoarea 8
+Variabila stringul1 Tipul string Scope-ul 5 Valoarea "bbbb"
+Variabila stringul Tipul string Scope-ul 5 Valoarea "cccccc"
+Variabila stringuri1 Tipul string Scope-ul 5 Valoarea "babababa"
+Variabila stringuri Tipul string Scope-ul 5 Valoarea "abcabcabc"
+Variabila v5 Tipul bool Scope-ul 5 Valoarea false
+Variabila gigel Tipul string Scope-ul 5 Valoarea "$EQEWQEWQ"
+Variabila p1 Tipul int Scope-ul 5 Valoarea 2
+Variabila ceva Tipul float Scope-ul 5 Continut: NEINITIALIZAT
+Variabila NEWVAR Tipul bool Scope-ul 5 Valoarea true
+Variabila ver Tipul bool Scope-ul 5 Valoarea true
+Variabila corect Tipul int Scope-ul 5 Valoarea 15
+Variabila f Tipul float Scope-ul 5 Valoarea 3312.2131
+Variabila m1 Tipul int Scope-ul 5 Valoarea 11
+Variabila CALCULUS Tipul int Scope-ul 5 Valoarea 75
+Variabila b Tipul int Scope-ul 5 Valoarea 15
+Variabila tee Tipul int Scope-ul 4 Valoarea 12314
+Variabila i Tipul int Scope-ul 4 Valoarea 0
+Variabila v2 Tipul bool Scope-ul 4 Valoarea true
+Variabila v1 Tipul bool Scope-ul 4 Valoarea true
+Variabila elena Tipul float Scope-ul 4 Valoarea -16.5
+Variabila v6 Tipul bool Scope-ul 0 Valoarea true
+Variabila m Tipul float Scope-ul 3 Valoarea -16.5
+Variabila d Tipul int Scope-ul 3 Valoarea 15
+Variabila t Tipul int Scope-ul 2 Valoarea 12313
+Variabila m2 Tipul int Scope-ul 0 Valoarea 15
+Variabila p Tipul int Scope-ul 1 Valoarea 10
+Vector: albama Tipul memorat: int Scope: 5  Dimensiunea: 10 Continut: 1, 2, 155, 4, 5, 6, 7, 8, 9
+Vector: second Tipul memorat: string Scope: 5  Dimensiunea: 4 Continut: "$eqw ", "MANCARE", "$eqwe", "$EQEWQEWQ"
+Vector: name Tipul memorat: bool Scope: 5  Dimensiunea: 5 Continut: NEINITIALIZAT
+Structura: SSS Scope: 4 Numarul de parametri: 5 Lista parametriilor: [float --> elena], [bool --> v1], [bool --> v2], [int --> i], [int --> tee], 
+Structura: STRUCTURA Scope: 3 Numarul de parametri: 2 Lista parametriilor: [int --> d], [float --> m], 
+Functia: dosomething Tipul return:int Scope: 4 Numarul de parametri: 2 Lista parametriilor: [int --> a], [int --> c], 
+Functia: fun Tipul return:int Scope: 2 Numarul de parametri: 2 Lista parametriilor: [int --> a], [int --> c], 
+Functia: fun Tipul return:int Scope: 1 Numarul de parametri: 1 Lista parametriilor: [int --> d], 

@@ -1,0 +1,121 @@
+tasker int fun ( int d ) 
+{ 
+    int p := 10;  
+};
+
+
+int m2;
+
+tasker int fun ( int a, int c ) 
+{ 
+    int t := 12313;  
+    while( (t < 12314) )
+    {
+        m2 := 15;
+    };
+};
+
+camp STRUCTURA 
+{
+    int d := 15;
+    float m := -16.5;
+};
+
+bool v6 := true;
+
+camp SSS 
+{
+    float elena ;
+    bool v1 := true;
+    bool v2 := true;
+
+    int i := 0;
+    tasker int dosomething ( int a, int c ) 
+    { 
+        int tee := 12313;  
+        for( i := 7; (i == 3); i := (i + 1))
+        {
+            tee := (tee + 1);
+        };
+    };
+};
+
+begin_program
+
+
+array < bool > name [ 5 ];
+array < string > second [ 4 ] := { "$eqw ", "$EQW", "$eqwe", "$EQEWQEWQ" };
+array < int > albama [ 10 ] := { 1, 2, 3, 4, 5 ,6 ,7 ,8 ,9 };
+
+
+int b := 15;
+int CALCULUS := (((((b + b) + b) - 30) * 10) / 2);
+
+
+int m1 := b;
+float f := 3312.2131;
+
+int corect := STRUCTURA.d;
+
+if ( (5 == 7) ) 
+then 
+{ 
+    m1 := 9; 
+};
+if ( (m1 < 12) ) 
+{
+    m1 :=12;
+}
+else
+{
+    m1 := 10;
+};
+while( true )
+{
+    m1 := (m1 + 1);
+};
+
+bool ver := true;
+bool NEWVAR := !(CALCULUS < b);
+float ceva;
+
+int p1 := albama [2] ;
+string gigel := second [4];
+
+bool v5 := v6;
+
+second [ 2 ] := "MANCARE";
+albama [ 3 ] := 155;
+
+v5 := false;
+
+SSS.elena := STRUCTURA.m;
+
+SSS.dosomething(5,5);
+
+string stringuri:=("abc" ** 3);
+string stringuri1:=(4 ** "ba");
+string stringul := (('c' ** 3) ** 2);
+string stringul1:=(4 ** 'b');
+const_int dulap := 8;
+const_int dula1 := 9;
+const_float float1:=7.2;
+const_float float2 :=8.3;
+char bib:='a';
+char beb :='b';
+bool rom1 := !( 3 > 2);
+bool ram2 := ((5 > 7) && (9 < 10)); 
+bool ram3 := (5 == 7);
+string cevanou3:=("abc" ++ 'd');
+string cevanou := ( 'b' ++ 'c');
+string cevanou1 := (( "abc" ++ "abc") ** 2);
+string cevanou4 := ( 'b' ++ "abc" );
+
+call_tasker fun ( ((9 + 12) - 15), 0 );
+
+call_tasker fun ( 9 ,  call_tasker fun ( 5 ) );
+
+call_tasker Eval ( ((((dulap + 8) - 3)*10)/50)  ); 
+call_tasker Eval ( true );
+
+end_program
